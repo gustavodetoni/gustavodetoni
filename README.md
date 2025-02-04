@@ -13,5 +13,3 @@ Perfil dedicado a postagem de projetos criados e desenvolvidos para minha carrei
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavodetoni&theme=github_dark_dimmed&show_icons=true)
